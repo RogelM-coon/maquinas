@@ -1,10 +1,17 @@
 {
-    "maquinas": [
-      "Excavadora340",
-      "Excavadora220",
-      "Shepfoot",
-      "CargadorFrontal",
-      "Patrolcase"
-    ]
-  }
-  
+  "otros": [
+    "Excavadora340",
+    "Excavadora220",
+    "Shepfoot",
+    "CargadorFrontal",
+    "Patrolcase"
+  ],
+  "pachonte": [
+    "Maquina1",
+    "Maquina2"
+  ],
+  "ocositos": [
+    "Maquina3",
+    "Maquina4"
+  ]
+}
