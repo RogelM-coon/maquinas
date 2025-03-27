@@ -1,5 +1,11 @@
 {
-    "marcelo99.meza@gmail.com": "ocositos",
-    "usuario2@gmail.com": "ocositos"
+  "marcelo99.meza@gmail.com": {
+    "grupo": "ocositos",
+    "admin": 1
+  },
+  "usuario2@gmail.com": {
+    "grupo": "ocositos",
+    "admin": 0
   }
-  
+}
+
