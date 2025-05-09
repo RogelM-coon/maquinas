@@ -1,28 +1,24 @@
 {
   "otros": [
-    "Excavadora340",
-    "Excavadora220",
-    "Excavadora-Case-CX350B",
-    "Excavadora-Cat-REC3-63",
-    "Shepfoot",
-    "CargadorFrontal",
-    "Patrol-case",
-    "Patrol-Cat",
-    "Tractor-Case"
+    "Excavadora 340",
+    "Excavadora 220",
+    "Excavadora Case CX350B",
+    "Excavadora CAT REC3-63",
+    "Sheepsfoot",
+    "Cargador Frontal",
+    "Patrol Case",
+    "Tractor Case"
   ],
   "pachonte": [
-    "Excavadora340",
-    "Excavadora220",
-    "Excavadora-Case-CX350B",
-    "Excavadora-Cat-REC3-63",
-    "Shepfoot",
-    "CargadorFrontal",
-    "Patrol-case",
-    "Patrol-Cat",
-    "Tractor-Case"
+    "Excavadora 340",
+    "Excavadora Case CX350B",
+    "Excavadora CAT REC3-63",
+    "Sheepsfoot",
+    "Cargador Frontal",
+    "Patrol CAT"
   ],
   "ocositos": [
-    "Maquina3",
-    "Maquina4"
+    "Maquina 3",
+    "Maquina 4"
   ]
 }
